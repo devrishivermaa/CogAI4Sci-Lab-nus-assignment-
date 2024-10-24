@@ -1,4 +1,4 @@
-Overview
+Overview: 
 AD AUTO-GEMINI is an advanced reimplementation of AD AUTO-GPT, leveraging the AUTO-GPT framework to enhance its functionality. Developed as part of my internship assignment at the CogAI4Sci Lab, National University of Singapore, this project autonomously collects, processes, and analyzes intricate health narratives surrounding Alzheimer's Disease (AD). The primary goal of AD AUTO-GEMINI is to improve understanding and awareness of Alzheimer's Disease through automated data analysis, thereby supporting informed decision-making in public health.
 
 Features:
