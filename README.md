@@ -8,7 +8,7 @@ Features:
 4) Visualizations: Creates impactful visualizations based on user queries, facilitating better analysis and understanding of the data.
 
 Files: 
-1) Reports : Contain all the main reports pdfs 
+1) Reports : Contain all the main reports  
 2) AD_Auto_Gemini.ipynb : Main code for reimplementaion 
 3) text_outputs: Contain output of each step of the instruction library 
 4) output_images: Contains visualizations 
