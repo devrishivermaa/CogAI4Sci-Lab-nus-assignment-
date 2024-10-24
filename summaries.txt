@@ -1,0 +1,128 @@
+Article 1
+URL: https://www.bbc.com/news/health-66221116
+Date: 2023-07-17T14:16:16.000Z
+LDA Topic: 0.001*"alzheimers" + 0.001*"disease" + 0.001*"brain" + 0.001*"dementia" + 0.001*"drugs" + 0.001*"research" + 0.001*"family" + 0.001*"drug" + 0.001*"scientists" + 0.001*"says"
+Locations:
+**
+
+* UK
+* Kent
+* London
+* England
+* Wales
+* US
+Summary:
+A new drug, donanemab, has shown promise in slowing cognitive decline in patients with early-stage Alzheimer's disease. In a global trial involving 1,736 people aged 60 to 85, donanemab demonstrated a significant reduction in amyloid buildup in the brain, leading to improved cognitive function and daily living abilities. The drug's effect was more pronounced in patients with less amyloid buildup at the start of the trial. While donanemab has shown potential, it is not without risks, with brain swelling being a common side effect, and two volunteers, and possibly a third, died due to dangerous swelling. The trial's results are a significant step forward in the fight against Alzheimer's, and the UK's drug watchdog is currently assessing donanemab for possible use in the NHS. Experts emphasize the need for continued research and investment to develop a "statin for the brain" that could prevent Alzheimer's disease altogether. With around 720,000 people in the UK potentially benefiting from new Alzheimer's treatments, the Alzheimer's Society highlights the need for better diagnostic infrastructure and preparedness within the NHS to deliver these treatments effectively. 
+
+**
+
+Article 2
+URL: https://www.bbc.com/news/health-66816268
+Date: 2023-09-15T06:02:51.000Z
+LDA Topic: 0.014*"alzheimers" + 0.014*"dementia" + 0.010*"brain" + 0.008*"disease" + 0.008*"family" + 0.007*"says" + 0.007*"water" + 0.007*"cold" + 0.007*"early" + 0.005*"drugs"
+Locations:
+** UK, Belgium, London, University College London, Leuven, KU Leuven, Edinburgh, University of Edinburgh.
+Summary:
+Scientists in the UK and Belgium have discovered a potential mechanism behind brain cell death in Alzheimer's disease. They have linked the abnormal proteins that build up in the brain with necroptosis, a form of cellular suicide. This finding could open up new avenues for developing Alzheimer's treatments. Specifically, they observed that abnormal amyloid builds up in the spaces between neurons, leading to inflammation. This, in turn, triggers the production of a molecule called MEG3, which initiates necroptosis.  Blocking MEG3 prevented brain cell death in their experiments, suggesting a possible target for new drugs. These findings, while promising, are still in the early stages of research, requiring further investigation to determine their potential for effective Alzheimer's treatments.  
+
+**
+
+Article 3
+URL: https://www.bbc.com/news/health-24478942
+Date: 2013-10-10T15:03:47.000Z
+LDA Topic: 0.019*"alzheimers" + 0.016*"brain" + 0.014*"research" + 0.012*"disease" + 0.007*"cure" + 0.007*"chemical" + 0.006*"study" + 0.006*"father" + 0.005*"cells" + 0.005*"scientists"
+Locations:
+**
+
+* University of Leicester, UK
+* Kings College London, UK
+Summary:
+Researchers at the University of Leicester, UK, have made a breakthrough in the fight against neurodegenerative diseases. They have used a chemical compound to stop brain cell death in mice with prion disease, a disease similar to mad cow disease in humans. This is the first time a chemical has been shown to halt brain cell death in a living brain. While the chemical caused side effects such as weight loss and diabetes, it prevented brain deterioration and allowed the mice to live for 12 weeks. The researchers believe the chemical could be a significant step towards a cure for neurodegenerative diseases like Alzheimer's, Parkinson's, and Huntington's. The chemical works by helping the brain cope with producing broken proteins that are the hallmark of these diseases. While the study is exciting, it's important to note that this is a long-term project and it could be a decade before we know if the chemical is effective in humans. The human brain is far more complex than the mouse brain, and a lot more research is needed before this chemical can be tested in humans. 
+
+**
+
+Article 4
+URL: https://www.bbc.com/news/uk-wales-65166225
+Date: 2023-04-10T07:50:12.000Z
+LDA Topic: 0.023*"alzheimers" + 0.015*"disease" + 0.014*"brain" + 0.011*"dementia" + 0.008*"drug" + 0.007*"research" + 0.006*"drugs" + 0.005*"donanemab" + 0.005*"treatments" + 0.005*"common"
+Locations:
+**
+* Merthyr Tydfil, Wales
+* Cardiff, Wales
+* UK
+Summary:
+A leading Alzheimer's expert, Professor Julie Williams at Cardiff University, believes a treatment for the most common forms of the disease will be available within 20 years. Her team has identified 92 genes linked to an increased risk of Alzheimer's, a significant increase from the three genes known in 2009. Research is accelerating, fueled by gene therapy and international studies that are revealing more about the disease.  Alzheimer's affects over 850,000 people in the UK, with over-65s being more susceptible.  Professor Williams emphasizes the complex nature of Alzheimer's, comparing it to heart disease or stroke, where multiple factors contribute. While there may not be a single cause, she believes a range of treatments will be available by 2040, potentially delaying or preventing the disease. Some of these drugs, already cleared for other conditions, could be in clinical use within five years. 
+
+**
+
+Article 5
+URL: https://www.bbc.com/news/health-54531075
+Date: 2020-10-19T00:13:05.000Z
+LDA Topic: 0.001*"alzheimers" + 0.001*"brain" + 0.001*"disease" + 0.001*"dementia" + 0.001*"research" + 0.001*"cells" + 0.001*"drug" + 0.001*"family" + 0.001*"drugs" + 0.001*"scientists"
+Locations:
+- Cambridge, UK
+- London, UK
+- Parliament Hill Lido, London, UK
+- Hampstead Heath, London, UK
+Summary:
+Researchers at Cambridge University have discovered a potential link between cold water swimming and dementia prevention.  They found that regular winter swimmers at London's Parliament Hill Lido have elevated levels of a coldshock protein called RBM3 in their blood. This protein has been shown to slow the onset of dementia and even repair some of the damage it causes in mice. The research is still in its early stages, but it suggests that a drug that stimulates the production of RBM3 could potentially help delay dementia in humans. However, the risks associated with getting cold outweigh any potential benefits, so cold water immersion is not recommended as a dementia treatment.  Currently, there are over a million people with dementia in the UK, and the total is expected to double by 2050. The study involved winter swimmers at the Parliament Hill Lido in London, and a control group of Tai Chi practitioners who did not swim.
+
+Article 6
+URL: https://www.bbc.com/news/world-latin-america-13428265
+Date: 2011-05-19T00:53:08.000Z
+LDA Topic: 0.001*"alzheimers" + 0.001*"disease" + 0.001*"brain" + 0.001*"dementia" + 0.001*"drugs" + 0.001*"research" + 0.001*"family" + 0.001*"drug" + 0.001*"scientists" + 0.001*"says"
+Locations:
+** 
+
+* Medellin, Colombia
+* Andes mountains, Colombia
+* Phoenix, Arizona, USA
+* Harvard, USA
+Summary:
+A large Colombian family, with an estimated 5,000 members scattered across remote villages in the Andes mountains surrounding Medellin, Colombia, is participating in a drug trial for early-onset Alzheimer's disease. This family has a unique genetic mutation, called the paisa mutation, passed down through generations, where half of the family members are likely to develop the disease. The researchers are hopeful that this family, considered a "natural laboratory," will be key to finding a cure for Alzheimer's disease, which is becoming increasingly prevalent worldwide. Scientists from the Banner Institute in Phoenix, Arizona, a leader in dementia research, are collaborating with the family to test drugs that target amyloid plaques, a hallmark of the disease. The trial involves monitoring both those taking the experimental drugs and those receiving a placebo, using brain scans, lumbar punctures, and other techniques. The hope is that the trial, beginning in late 2012, will delay or stop the onset of Alzheimer's in the family members, potentially leading to a cure for the disease globally.  While the trial holds great promise, there are risks, as it is unknown whether amyloid plaques are the cause or effect of the disease. However, the family, burdened by the knowledge of their genetic predisposition, is willing to take the risk for themselves, their children, and the rest of the world. 
+
+**
+
+Article 7
+URL: https://www.bbc.com/news/health-65471914
+Date: 2023-05-03T13:36:08.000Z
+LDA Topic: 0.014*"alzheimers" + 0.014*"dementia" + 0.010*"brain" + 0.008*"disease" + 0.008*"family" + 0.007*"says" + 0.007*"water" + 0.007*"cold" + 0.007*"early" + 0.005*"drugs"
+Locations:
+** 
+* UK (United Kingdom) 
+* Bristol, UK 
+* National Hospital for Neurology and Neurosurgery, UK 
+* UK Dementia Research Institute 
+* London, UK
+Summary:
+A new Alzheimer's drug, donanemab, developed by Eli Lilly, has been shown to slow the disease by about a third. This follows the success of lecanemab, another drug that also targets amyloid plaques in the brain. Both drugs work by clearing the sticky buildup of amyloid, a hallmark of Alzheimer's disease. This marks a significant breakthrough in the decades-long search for effective treatments for Alzheimer's. While donanemab has shown promising results, it has also been associated with dangerous brain swelling in some patients, with two deaths attributed to this side effect. Despite this, experts believe that these drugs could help people live well with Alzheimer's for longer. The full details of the trial are yet to be published, but it involved 1,734 people in the earliest stages of Alzheimer's. The drug was given monthly until the plaques were cleared, resulting in a 29% overall slowdown of the disease, and 35% in patients who were more likely to respond. While the drugs have shown promise, they seem to work only in the earliest stages of the disease. Also, only 12% of people in the UK have brain scans or spinal fluid analysis to confirm Alzheimer's, meaning diagnosis and access to these drugs would require a significant shift in healthcare practices. The cost of lecanemab is also a factor, at over £21,000 per person per year.  
+
+**
+
+Article 8
+URL: https://www.bbc.com/news/uk-wales-north-east-wales-11532508
+Date: 2010-10-15T06:33:00.000Z
+LDA Topic: 0.019*"alzheimers" + 0.016*"brain" + 0.014*"research" + 0.012*"disease" + 0.007*"cure" + 0.007*"chemical" + 0.006*"study" + 0.006*"father" + 0.005*"cells" + 0.005*"scientists"
+Locations:
+**
+* Wrexham, Wales
+* University of Leeds, England
+* UK (United Kingdom)
+Summary:
+Dr. Heledd Griffiths, a scientist from Wrexham, Wales, is researching Alzheimer's disease.  Her father, Gwilym, was diagnosed with the disease in 1998, and his condition deteriorated until he died in 2002. Dr. Griffiths is joining a team at the University of Leeds, which has received a £244,926 research grant from the Alzheimer's Research Trust. The team is investigating the interaction between amyloid and prion, two proteins implicated in Alzheimer's disease. Their research could lead to new drug targets to prevent the disease. The UK currently has 820,000 people living with dementia, with 1,600 cases reported in Wrexham. Dr. Griffiths says the love and support of her family helped her father through his difficult times. The Alzheimers Research Trust is currently funding 124 projects at UK universities. 
+
+**
+
+Article 9
+URL: https://www.bbc.com/news/articles/c20m4e27enko
+Date: 2024-10-10T22:18:22.892Z
+LDA Topic: 0.023*"alzheimers" + 0.015*"disease" + 0.014*"brain" + 0.011*"dementia" + 0.008*"drug" + 0.007*"research" + 0.006*"drugs" + 0.005*"donanemab" + 0.005*"treatments" + 0.005*"common"
+Locations:
+**
+
+* Edinburgh, Scotland
+* UK (United Kingdom)
+Summary:
+Sally Magnusson, a journalist whose mother suffered from Alzheimer's and vascular dementia, is exploring the possibility of participating in a research program that uses blood tests to identify the presence of amyloid, a protein implicated in Alzheimer's disease. The program, run by Prof Craig Ritchie at the Scottish Brain Sciences (SBS) in Edinburgh, Scotland, aims to identify individuals with early signs of Alzheimer's and provide them with potential treatments before symptoms develop. The program is particularly relevant for individuals with a family history of Alzheimer's, like Magnusson. While there is hope that treatments for Alzheimer's are on the horizon, Magnusson's daughter is apprehensive about the potential emotional impact of knowing her mother has the disease without immediate treatment options. The article highlights the need for volunteers to participate in research programs to accelerate the development of Alzheimer's treatments and emphasizes the importance of finding a cure for the debilitating disease. 
+
+**

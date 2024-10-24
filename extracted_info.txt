@@ -1,0 +1,44 @@
+Article 1
+Date: 2023-07-17T14:16:16.000Z
+LDA Topic: 0.001*"alzheimers" + 0.001*"disease" + 0.001*"brain" + 0.001*"dementia" + 0.001*"drugs" + 0.001*"research" + 0.001*"family" + 0.001*"drug" + 0.001*"scientists" + 0.001*"says"
+Locations: **
+
+Article 2
+Date: 2023-09-15T06:02:51.000Z
+LDA Topic: 0.014*"alzheimers" + 0.014*"dementia" + 0.010*"brain" + 0.008*"disease" + 0.008*"family" + 0.007*"says" + 0.007*"water" + 0.007*"cold" + 0.007*"early" + 0.005*"drugs"
+Locations: ** UK, Belgium, London, University College London, Leuven, KU Leuven, Edinburgh, University of Edinburgh.
+
+Article 3
+Date: 2013-10-10T15:03:47.000Z
+LDA Topic: 0.019*"alzheimers" + 0.016*"brain" + 0.014*"research" + 0.012*"disease" + 0.007*"cure" + 0.007*"chemical" + 0.006*"study" + 0.006*"father" + 0.005*"cells" + 0.005*"scientists"
+Locations: **
+
+Article 4
+Date: 2023-04-10T07:50:12.000Z
+LDA Topic: 0.023*"alzheimers" + 0.015*"disease" + 0.014*"brain" + 0.011*"dementia" + 0.008*"drug" + 0.007*"research" + 0.006*"drugs" + 0.005*"donanemab" + 0.005*"treatments" + 0.005*"common"
+Locations: **, * Merthyr Tydfil, Wales, * Cardiff, Wales, * UK
+
+Article 5
+Date: 2020-10-19T00:13:05.000Z
+LDA Topic: 0.001*"alzheimers" + 0.001*"brain" + 0.001*"disease" + 0.001*"dementia" + 0.001*"research" + 0.001*"cells" + 0.001*"drug" + 0.001*"family" + 0.001*"drugs" + 0.001*"scientists"
+Locations: Cambridge, UK, London, UK, Parliament Hill Lido, London, UK, Hampstead Heath, London, UK
+
+Article 6
+Date: 2011-05-19T00:53:08.000Z
+LDA Topic: 0.001*"alzheimers" + 0.001*"disease" + 0.001*"brain" + 0.001*"dementia" + 0.001*"drugs" + 0.001*"research" + 0.001*"family" + 0.001*"drug" + 0.001*"scientists" + 0.001*"says"
+Locations: **
+
+Article 7
+Date: 2023-05-03T13:36:08.000Z
+LDA Topic: 0.014*"alzheimers" + 0.014*"dementia" + 0.010*"brain" + 0.008*"disease" + 0.008*"family" + 0.007*"says" + 0.007*"water" + 0.007*"cold" + 0.007*"early" + 0.005*"drugs"
+Locations: ** , * UK (United Kingdom) , * Bristol, UK , * National Hospital for Neurology and Neurosurgery, UK , * UK Dementia Research Institute , * London, UK
+
+Article 8
+Date: 2010-10-15T06:33:00.000Z
+LDA Topic: 0.019*"alzheimers" + 0.016*"brain" + 0.014*"research" + 0.012*"disease" + 0.007*"cure" + 0.007*"chemical" + 0.006*"study" + 0.006*"father" + 0.005*"cells" + 0.005*"scientists"
+Locations: **, * Wrexham, Wales, * University of Leeds, England, * UK (United Kingdom)
+
+Article 9
+Date: 2024-10-10T22:18:22.892Z
+LDA Topic: 0.023*"alzheimers" + 0.015*"disease" + 0.014*"brain" + 0.011*"dementia" + 0.008*"drug" + 0.007*"research" + 0.006*"drugs" + 0.005*"donanemab" + 0.005*"treatments" + 0.005*"common"
+Locations: **
