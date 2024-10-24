@@ -8,18 +8,11 @@ Insight Generation: Produces valuable insights to inform public health strategie
 Visualizations: Creates impactful visualizations based on user queries, facilitating better analysis and understanding of the data.
 
 Files: 
-AD_Auto_Gemini.ipynb: Main code for the reimplementation of AD AUTO-GPT.
-Dev_Rishi_Code_Implementation.pdf: Comprehensive report on the reimplementation process.
-Dev_Rishi_Paper_Review.pdf: Analysis report reviewing related literature.
-extracted_urls.txt: File containing URLs of the sources used for data collection.
-articles.txt: Document containing the extracted articles from the URLs.
-articles_with_lda.txt: File containing information derived from LDA (Latent Dirichlet Allocation) analysis.
-summaries.txt: Initial summaries of all extracted articles.
-extracted_info.txt: Compiled data including dates, locations, and LDA information.
-combined_summary.txt: A comprehensive final summary that successfully addresses the user's query.
-world_map.html: HTML file containing a visualization of geographic data related to the articles.
-articles_per_month.png: Visualization showing the number of articles published per month.
-articles_with_lda.txt: Visualization of LDA information derived from the articles.
+Reports : Contain all the main reports pdfs 
+AD_Auto_Gemini.ipynb : Main code for reimplementaion 
+text_outputs: Contain output of each step of the instruction library 
+output_images: Contains visualizations 
+
 
 Contact:
 For any inquiries or feedback, feel free to reach out:
